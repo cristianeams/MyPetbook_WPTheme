@@ -2,7 +2,7 @@
 
 ### What is it?
 
-MyPetbook theme is a Wordpress responsive theme developed using Underscores.me starter theme for MyPetbook website to support the app.
+MyPetbook theme is a Wordpress responsive theme developed using Underscores.me for MyPetbook website.
 
 ### Developers
 
